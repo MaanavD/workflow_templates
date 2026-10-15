@@ -9079,18 +9079,18 @@
         "fa": "متن به تصویر با نورپردازی پیشرفته، مواد و جزئیات واقعی."
       },
       "title": {
-        "en": "Flux.2 Dev Text to Image",
-        "zh": "Flux.2 开发专用文生图",
-        "zh-TW": "Flux.2 開發專用文生圖",
-        "ja": "Flux.2 Dev テキストから画像へ",
+        "en": "FLUX.2 Dev Text to Image",
+        "zh": "FLUX.2 开发专用文生图",
+        "zh-TW": "FLUX.2 開發專用文生圖",
+        "ja": "FLUX.2 Dev テキストから画像へ",
         "ko": "FLUX.2 개발 전용 텍스트 기반 이미지 생성",
-        "es": "Flux.2 Dev texto a imagen",
-        "fr": "Flux.2 Dev texte vers image",
-        "ru": "Flux.2 Dev Только для разработчиков текст в изображение",
-        "tr": "Flux.2 YALNIZCA GELİŞTİRİCİ metinden görüntü",
-        "ar": "فلوكس.2 للمطورين فقط نص إلى صورة",
-        "pt-BR": "Flux.2 Dev texto para imagem",
-        "fa": "Flux.2 فقط برای توسعه‌دهندگان متن به تصویر"
+        "es": "FLUX.2 Dev texto a imagen",
+        "fr": "FLUX.2 Dev texte vers image",
+        "ru": "FLUX.2 Dev Только для разработчиков текст в изображение",
+        "tr": "FLUX.2 YALNIZCA GELİŞTİRİCİ metinden görüntü",
+        "ar": "FLUX.2 للمطورين فقط نص إلى صورة",
+        "pt-BR": "FLUX.2 Dev texto para imagem",
+        "fa": "FLUX.2 فقط برای توسعه‌دهندگان متن به تصویر"
       }
     },
     "audio_stable_audio_example": {
@@ -9469,18 +9469,18 @@
         "fa": "تصاویر فوتورئالیستی تا 4MP با ثبات چندمرجعی و رندر متن حرفه‌ای تولید کنید."
       },
       "title": {
-        "en": "Flux.2 Pro",
-        "zh": "Flux.2 Pro",
-        "zh-TW": "Flux.2 Pro",
-        "ja": "Flux.2 Pro",
-        "ko": "Flux.2 Pro",
-        "es": "Flux.2 Pro",
-        "fr": "Flux.2 Pro",
-        "ru": "Flux.2 Pro",
-        "tr": "Flux.2 Pro",
-        "ar": "Flux.2 Pro",
-        "pt-BR": "Flux.2 Pro",
-        "fa": "Flux.2 Pro"
+        "en": "FLUX.2 Pro",
+        "zh": "FLUX.2 Pro",
+        "zh-TW": "FLUX.2 Pro",
+        "ja": "FLUX.2 Pro",
+        "ko": "FLUX.2 Pro",
+        "es": "FLUX.2 Pro",
+        "fr": "FLUX.2 Pro",
+        "ru": "FLUX.2 Pro",
+        "tr": "FLUX.2 Pro",
+        "ar": "FLUX.2 Pro",
+        "pt-BR": "FLUX.2 Pro",
+        "fa": "FLUX.2 Pro"
       }
     },
     "image_netayume_lumina_t2i": {
@@ -9739,18 +9739,18 @@
         "fa": "تولید تصاویر فوتورئالیستی با ثبات چند مرجعی و رندر متن حرفه‌ای."
       },
       "title": {
-        "en": "Flux.2 Dev",
-        "zh": "Flux.2 Dev",
-        "zh-TW": "Flux.2 Dev",
-        "ja": "Flux.2 Dev",
-        "ko": "Flux.2 Dev",
-        "es": "Flux.2 Dev",
-        "fr": "Flux.2 Dev",
-        "ru": "Flux.2 Dev",
-        "tr": "Flux.2 Dev",
-        "ar": "Flux.2 Dev",
-        "pt-BR": "Flux.2 Dev",
-        "fa": "Flux.2 Dev"
+        "en": "FLUX.2 Dev",
+        "zh": "FLUX.2 Dev",
+        "zh-TW": "FLUX.2 Dev",
+        "ja": "FLUX.2 Dev",
+        "ko": "FLUX.2 Dev",
+        "es": "FLUX.2 Dev",
+        "fr": "FLUX.2 Dev",
+        "ru": "FLUX.2 Dev",
+        "tr": "FLUX.2 Dev",
+        "ar": "FLUX.2 Dev",
+        "pt-BR": "FLUX.2 Dev",
+        "fa": "FLUX.2 Dev"
       }
     },
     "api_kling_omni_image": {
@@ -12319,18 +12319,18 @@
         "fa": "با اعمال الگوهای طراحی بر روی بسته‌بندی، لیوان‌ها و سایر محصولات با استفاده از ثبات چندمرجعی، ماکت محصول ایجاد کنید."
       },
       "title": {
-        "en": "Product Mockup(Flux.2 Dev FP8)",
-        "zh": "产品样机（Flux.2 Dev FP8）",
-        "zh-TW": "產品樣機（Flux.2 Dev FP8）",
-        "ja": "製品モックアップ（Flux.2 Dev FP8）",
-        "ko": "제품 목업(Flux.2 Dev FP8)",
-        "es": "Maqueta de producto (Flux.2 Dev FP8)",
-        "fr": "Maquette de produit (Flux.2 Dev FP8)",
-        "ru": "Макет продукта (Flux.2 Dev FP8)",
-        "tr": "Ürün Maketi (Flux.2 Dev FP8)",
-        "ar": "نموذج منتج (Flux.2 Dev FP8)",
-        "pt-BR": "Mockup de Produto(Flux.2 Dev FP8)",
-        "fa": "ماکت محصول (Flux.2 Dev FP8)"
+        "en": "Product Mockup(FLUX.2 Dev FP8)",
+        "zh": "产品样机（FLUX.2 Dev FP8）",
+        "zh-TW": "產品樣機（FLUX.2 Dev FP8）",
+        "ja": "製品モックアップ（FLUX.2 Dev FP8）",
+        "ko": "제품 목업(FLUX.2 Dev FP8)",
+        "es": "Maqueta de producto (FLUX.2 Dev FP8)",
+        "fr": "Maquette de produit (FLUX.2 Dev FP8)",
+        "ru": "Макет продукта (FLUX.2 Dev FP8)",
+        "tr": "Ürün Maketi (FLUX.2 Dev FP8)",
+        "ar": "نموذج منتج (FLUX.2 Dev FP8)",
+        "pt-BR": "Mockup de Produto(FLUX.2 Dev FP8)",
+        "fa": "ماکت محصول (FLUX.2 Dev FP8)"
       }
     },
     "api_luma_photon_i2i": {
@@ -14449,18 +14449,18 @@
         "fa": "مدل تقطیر شده BFL. کیفیت عالی با سرعت زیر ثانیه. عالی برای تولید بلادرنگ با حفظ کیفیت. بازاریابی بر روی این مدل متمرکز خواهد بود."
       },
       "title": {
-        "en": "Flux.2 [Klein] 4B: Text to Image",
-        "zh": "Flux.2 [Klein] 4B: 文生图",
-        "zh-TW": "Flux.2 [Klein] 4B: 文生圖",
-        "ja": "Flux.2 [Klein] 4B: テキストから画像へ",
+        "en": "FLUX.2 [Klein] 4B: Text to Image",
+        "zh": "FLUX.2 [Klein] 4B: 文生图",
+        "zh-TW": "FLUX.2 [Klein] 4B: 文生圖",
+        "ja": "FLUX.2 [Klein] 4B: テキストから画像へ",
         "ko": "FLUX.2 [Klein] 4B: 텍스트 기반 이미지 생성",
-        "es": "Flux.2 [Klein] 4B: texto a imagen",
-        "fr": "Flux.2 [Klein] 4B: texte vers image",
-        "ru": "Flux.2 [Klein] 4B: текст в изображение",
-        "tr": "Flux.2 [Klein] 4B: metinden görüntü",
-        "ar": "فلوكس.2 [Klein] 4B: نص إلى صورة",
-        "pt-BR": "Flux.2 [Klein] 4B: texto para imagem",
-        "fa": "Flux.2 [Klein] 4B: متن به تصویر"
+        "es": "FLUX.2 [Klein] 4B: texto a imagen",
+        "fr": "FLUX.2 [Klein] 4B: texte vers image",
+        "ru": "FLUX.2 [Klein] 4B: текст в изображение",
+        "tr": "FLUX.2 [Klein] 4B: metinden görüntü",
+        "ar": "FLUX.2 [Klein] 4B: نص إلى صورة",
+        "pt-BR": "FLUX.2 [Klein] 4B: texto para imagem",
+        "fa": "FLUX.2 [Klein] 4B: متن به تصویر"
       }
     },
     "image_flux2_klein_image_edit_4b_distilled": {
@@ -14479,18 +14479,18 @@
         "fa": "سریع‌ترین نوع در خانواده Klein. ساخته شده برای برنامه‌های تعاملی، پیش‌نمایش بلادرنگ و موارد استفاده تولید با حساسیت به تأخیر."
       },
       "title": {
-        "en": "Flux.2 [Klein] 4B Distilled: Image Edit",
-        "zh": "Flux.2 [Klein] 4B 蒸馏版：图片编辑",
-        "zh-TW": "Flux.2 [Klein] 4B 蒸餾版：圖片編輯",
-        "ja": "Flux.2 [Klein] 4B 蒸留版：画像編集",
-        "ko": "Flux.2 [Klein] 4B 증류판: 이미지 편집",
-        "es": "Flux.2 [Klein] 4B Destilado: Edición de Imagen",
-        "fr": "Flux.2 [Klein] 4B Distillé : Édition d’Image",
-        "ru": "Flux.2 [Klein] 4B Дистиллированная: Редактор изображений",
-        "tr": "Flux.2 [Klein] 4B Damıtılmış: Görsel Düzenleme",
-        "ar": "Flux.2 [Klein] 4B المقطر: تحرير صورة",
-        "pt-BR": "Flux.2 [Klein] 4B Destilado: Edição de Imagem",
-        "fa": "Flux.2 [Klein] 4B Distilled: ویرایش تصویر"
+        "en": "FLUX.2 [Klein] 4B Distilled: Image Edit",
+        "zh": "FLUX.2 [Klein] 4B 蒸馏版：图片编辑",
+        "zh-TW": "FLUX.2 [Klein] 4B 蒸餾版：圖片編輯",
+        "ja": "FLUX.2 [Klein] 4B 蒸留版：画像編集",
+        "ko": "FLUX.2 [Klein] 4B 증류판: 이미지 편집",
+        "es": "FLUX.2 [Klein] 4B Destilado: Edición de Imagen",
+        "fr": "FLUX.2 [Klein] 4B Distillé : Édition d’Image",
+        "ru": "FLUX.2 [Klein] 4B Дистиллированная: Редактор изображений",
+        "tr": "FLUX.2 [Klein] 4B Damıtılmış: Görsel Düzenleme",
+        "ar": "FLUX.2 [Klein] 4B المقطر: تحرير صورة",
+        "pt-BR": "FLUX.2 [Klein] 4B Destilado: Edição de Imagem",
+        "fa": "FLUX.2 [Klein] 4B Distilled: ویرایش تصویر"
       }
     },
     "image_flux2_klein_image_edit_4b_base": {
@@ -14509,18 +14509,18 @@
         "fa": "یک مدل پایه کوچک‌تر با نسبت کیفیت به اندازه استثنایی. ایده‌آل برای استقرار محلی، تنظیم دقیق روی سخت‌افزار محدود، و گردش‌کارهای کارآمد تولید و ویرایش."
       },
       "title": {
-        "en": "Flux.2 [Klein] 4B: Image Edit",
-        "zh": "Flux.2 [Klein] 4B：图片编辑",
-        "zh-TW": "Flux.2 [Klein] 4B：圖片編輯",
-        "ja": "Flux.2 [Klein] 4B：画像編集",
-        "ko": "Flux.2 [Klein] 4B：이미지 편집",
-        "es": "Flux.2 [Klein] 4B：Edición Imagen",
-        "fr": "Flux.2 [Klein] 4B：Édition d’Image",
-        "ru": "Flux.2 [Klein] 4B：редактор изображений",
-        "tr": "Flux.2 [Klein] 4B：Görsel Düzenleme",
-        "ar": "Flux.2 [Klein] 4B：تحرير صورة",
-        "pt-BR": "Flux.2 [Klein] 4B：Edição de Imagem",
-        "fa": "Flux.2 [Klein] 4B: ویرایش تصویر"
+        "en": "FLUX.2 [Klein] 4B: Image Edit",
+        "zh": "FLUX.2 [Klein] 4B：图片编辑",
+        "zh-TW": "FLUX.2 [Klein] 4B：圖片編輯",
+        "ja": "FLUX.2 [Klein] 4B：画像編集",
+        "ko": "FLUX.2 [Klein] 4B：이미지 편집",
+        "es": "FLUX.2 [Klein] 4B：Edición Imagen",
+        "fr": "FLUX.2 [Klein] 4B：Édition d’Image",
+        "ru": "FLUX.2 [Klein] 4B：редактор изображений",
+        "tr": "FLUX.2 [Klein] 4B：Görsel Düzenleme",
+        "ar": "FLUX.2 [Klein] 4B：تحرير صورة",
+        "pt-BR": "FLUX.2 [Klein] 4B：Edição de Imagem",
+        "fa": "FLUX.2 [Klein] 4B: ویرایش تصویر"
       }
     },
     "utility-frame_interpolation-film": {
@@ -14555,18 +14555,18 @@
     },
     "image_flux2_text_to_image_9b": {
       "title": {
-        "en": "Flux.2 [Klein] 9B: Text to Image",
-        "zh": "Flux.2 [Klein] 9B：文生图",
-        "zh-TW": "Flux.2 [Klein] 9B：文生圖",
-        "ja": "Flux.2 [Klein] 9B：テキストから画像へ",
+        "en": "FLUX.2 [Klein] 9B: Text to Image",
+        "zh": "FLUX.2 [Klein] 9B：文生图",
+        "zh-TW": "FLUX.2 [Klein] 9B：文生圖",
+        "ja": "FLUX.2 [Klein] 9B：テキストから画像へ",
         "ko": "FLUX.2 [Klein] 9B: 텍스트 기반 이미지 생성",
-        "es": "Flux.2 [Klein] 9B: texto a imagen",
-        "fr": "Flux.2 [Klein] 9B : texte vers image",
-        "ru": "Flux.2 [Klein] 9B: текст в изображение",
-        "tr": "Flux.2 [Klein] 9B: metinden görüntü",
-        "ar": "فلوكس.2 [Klein] 9B: نص إلى صورة",
-        "pt-BR": "Flux.2 [Klein] 9B: texto para imagem",
-        "fa": "Flux.2 [Klein] 9B: متن به تصویر"
+        "es": "FLUX.2 [Klein] 9B: texto a imagen",
+        "fr": "FLUX.2 [Klein] 9B : texte vers image",
+        "ru": "FLUX.2 [Klein] 9B: текст в изображение",
+        "tr": "FLUX.2 [Klein] 9B: metinden görüntü",
+        "ar": "FLUX.2 [Klein] 9B: نص إلى صورة",
+        "pt-BR": "FLUX.2 [Klein] 9B: texto para imagem",
+        "fa": "FLUX.2 [Klein] 9B: متن به تصویر"
       },
       "description": {
         "en": "BFL distilled model. Outstanding quality at sub-second speed. Great for real-time generation while retaining quality. Marketing launch will focus on this model.",
@@ -14585,18 +14585,18 @@
     },
     "image_flux2_klein_image_edit_9b_distilled": {
       "title": {
-        "en": "Flux.2 [Klein] 9B Distilled: Image Edit",
-        "zh": "Flux.2 [Klein] 9B 蒸馏：图像编辑",
-        "zh-TW": "Flux.2 [Klein] 9B 蒸餾：圖像編輯",
-        "ja": "Flux.2 [Klein] 9B 蒸留：画像編集",
-        "ko": "Flux.2 [Klein] 9B 증류: 이미지 편집",
-        "es": "Flux.2 [Klein] 9B destilado: Edición de imagen",
-        "fr": "Flux.2 [Klein] 9B distillé : Édition d’image",
-        "ru": "Flux.2 [Klein] 9B дистиллированная: Редактирование изображений",
-        "tr": "Flux.2 [Klein] 9B Damıtılmış: Görüntü Düzenleme",
-        "ar": "Flux.2 [Klein] 9B مُقطَّر: تحرير الصورة",
-        "pt-BR": "Flux.2 [Klein] 9B destilado: Edição de imagem",
-        "fa": "Flux.2 [Klein] 9B تقطیر شده: ویرایش تصویر"
+        "en": "FLUX.2 [Klein] 9B Distilled: Image Edit",
+        "zh": "FLUX.2 [Klein] 9B 蒸馏：图像编辑",
+        "zh-TW": "FLUX.2 [Klein] 9B 蒸餾：圖像編輯",
+        "ja": "FLUX.2 [Klein] 9B 蒸留：画像編集",
+        "ko": "FLUX.2 [Klein] 9B 증류: 이미지 편집",
+        "es": "FLUX.2 [Klein] 9B destilado: Edición de imagen",
+        "fr": "FLUX.2 [Klein] 9B distillé : Édition d’image",
+        "ru": "FLUX.2 [Klein] 9B дистиллированная: Редактирование изображений",
+        "tr": "FLUX.2 [Klein] 9B Damıtılmış: Görüntü Düzenleme",
+        "ar": "FLUX.2 [Klein] 9B مُقطَّر: تحرير الصورة",
+        "pt-BR": "FLUX.2 [Klein] 9B destilado: Edição de imagem",
+        "fa": "FLUX.2 [Klein] 9B تقطیر شده: ویرایش تصویر"
       },
       "description": {
         "en": "BFL distilled model. Outstanding quality at sub-second speed. Great for real-time generation while retaining quality. Marketing launch will focus on this model.",
@@ -14615,18 +14615,18 @@
     },
     "image_flux2_klein_image_edit_9b_base": {
       "title": {
-        "en": "Flux.2 [Klein] 9B: Image Edit",
-        "zh": "Flux.2 [Klein] 9B：图像编辑",
-        "zh-TW": "Flux.2 [Klein] 9B：圖像編輯",
-        "ja": "Flux.2 [Klein] 9B：画像編集",
-        "ko": "Flux.2 [Klein] 9B: 이미지 편집",
-        "es": "Flux.2 [Klein] 9B: Edición de imagen",
-        "fr": "Flux.2 [Klein] 9B : Édition d’image",
-        "ru": "Flux.2 [Klein] 9B: Редактирование изображений",
-        "tr": "Flux.2 [Klein] 9B: Görüntü Düzenleme",
-        "ar": "Flux.2 [Klein] 9B: تحرير الصورة",
-        "pt-BR": "Flux.2 [Klein] 9B: Edição de imagem",
-        "fa": "Flux.2 [Klein] 9B: ویرایش تصویر"
+        "en": "FLUX.2 [Klein] 9B: Image Edit",
+        "zh": "FLUX.2 [Klein] 9B：图像编辑",
+        "zh-TW": "FLUX.2 [Klein] 9B：圖像編輯",
+        "ja": "FLUX.2 [Klein] 9B：画像編集",
+        "ko": "FLUX.2 [Klein] 9B: 이미지 편집",
+        "es": "FLUX.2 [Klein] 9B: Edición de imagen",
+        "fr": "FLUX.2 [Klein] 9B : Édition d’image",
+        "ru": "FLUX.2 [Klein] 9B: Редактирование изображений",
+        "tr": "FLUX.2 [Klein] 9B: Görüntü Düzenleme",
+        "ar": "FLUX.2 [Klein] 9B: تحرير الصورة",
+        "pt-BR": "FLUX.2 [Klein] 9B: Edição de imagem",
+        "fa": "FLUX.2 [Klein] 9B: ویرایش تصویر"
       },
       "description": {
         "en": "BFL undistilled foundation model. Maximum flexibility and control. Great for fine-tuning.",
@@ -18864,18 +18864,18 @@
     },
     "image_flux2_klein_9b_kv_image_edit": {
       "title": {
-        "en": "Flux.2 Klein KV: Image Edit",
-        "zh": "Flux.2 Klein KV：图像编辑",
-        "zh-TW": "Flux.2 Klein KV：圖像編輯",
-        "ja": "Flux.2 Klein KV：画像編集",
-        "ko": "Flux.2 Klein KV: 이미지 편집",
-        "es": "Flux.2 Klein KV: Edición de imagen",
-        "fr": "Flux.2 Klein KV : Édition d'image",
-        "ru": "Flux.2 Klein KV: Редактирование изображения",
-        "tr": "Flux.2 Klein KV: Görsel Düzenleme",
-        "ar": "Flux.2 Klein KV: تحرير الصورة",
-        "pt-BR": "Flux.2 Klein KV: Edição de Imagem",
-        "fa": "Flux.2 Klein KV: ویرایش تصویر"
+        "en": "FLUX.2 Klein KV: Image Edit",
+        "zh": "FLUX.2 Klein KV：图像编辑",
+        "zh-TW": "FLUX.2 Klein KV：圖像編輯",
+        "ja": "FLUX.2 Klein KV：画像編集",
+        "ko": "FLUX.2 Klein KV: 이미지 편집",
+        "es": "FLUX.2 Klein KV: Edición de imagen",
+        "fr": "FLUX.2 Klein KV : Édition d'image",
+        "ru": "FLUX.2 Klein KV: Редактирование изображения",
+        "tr": "FLUX.2 Klein KV: Görsel Düzenleme",
+        "ar": "FLUX.2 Klein KV: تحرير الصورة",
+        "pt-BR": "FLUX.2 Klein KV: Edição de Imagem",
+        "fa": "FLUX.2 Klein KV: ویرایش تصویر"
       },
       "description": {
         "en": "Upload reference images and a text prompt. Generate multiple edited images using cached image data for faster processing.",
@@ -18984,18 +18984,18 @@
     },
     "templates_doc_workbox_klein_9b_image_extend": {
       "title": {
-        "en": "Image Outpainting: Flux.2 Klein 9B",
-        "zh": "图像扩图: Flux.2 Klein 9B",
-        "zh-TW": "圖像擴圖: Flux.2 Klein 9B",
-        "ja": "画像アウトペイント: Flux.2 Klein 9B",
-        "ko": "이미지 아웃페인팅: Flux.2 Klein 9B",
-        "es": "Outpainting de imagen: Flux.2 Klein 9B",
-        "fr": "Outpainting d'image: Flux.2 Klein 9B",
-        "ru": "Аутпейнтинг изображения: Flux.2 Klein 9B",
-        "tr": "Görüntü Outpainting: Flux.2 Klein 9B",
-        "ar": "توسيع الصورة: Flux.2 Klein 9B",
-        "pt-BR": "Outpainting de imagem: Flux.2 Klein 9B",
-        "fa": "گسترش تصویر: Flux.2 Klein 9B"
+        "en": "Image Outpainting: FLUX.2 Klein 9B",
+        "zh": "图像扩图: FLUX.2 Klein 9B",
+        "zh-TW": "圖像擴圖: FLUX.2 Klein 9B",
+        "ja": "画像アウトペイント: FLUX.2 Klein 9B",
+        "ko": "이미지 아웃페인팅: FLUX.2 Klein 9B",
+        "es": "Outpainting de imagen: FLUX.2 Klein 9B",
+        "fr": "Outpainting d'image: FLUX.2 Klein 9B",
+        "ru": "Аутпейнтинг изображения: FLUX.2 Klein 9B",
+        "tr": "Görüntü Outpainting: FLUX.2 Klein 9B",
+        "ar": "توسيع الصورة: FLUX.2 Klein 9B",
+        "pt-BR": "Outpainting de imagem: FLUX.2 Klein 9B",
+        "fa": "گسترش تصویر: FLUX.2 Klein 9B"
       },
       "description": {
         "en": "Use the FLUX.2 Klein 9B model to intelligently extend and expand image content. Input an image to generate seamless outpainting and extended compositions.",
@@ -19007,7 +19007,7 @@
         "fr": "Utilisez le modèle FLUX.2 Klein 9B pour étendre et développer intelligemment le contenu de l'image. Entrez une image pour générer un outpainting transparent et des compositions étendues.",
         "ru": "Используйте модель FLUX.2 Klein 9B для интеллектуального расширения и разворачивания содержимого изображения. Введите изображение, чтобы генерировать бесшовный аутпейнтинг и расширенные композиции.",
         "tr": "FLUX.2 Klein 9B modelini kullanarak görsel içeriğini akıllıca genişletin ve yayın. Bir görsel girdisi yaparak kesintisiz outpainting ve genişletilmiş kompozisyonlar oluşturun.",
-        "ar": "استخدم نموذج فلوكس.2 كلاين 9B لتوسيع محتوى الصورة وتمديده بذكاء. أدخل صورة لتوليد توسيع الصورة بسلاسة وتركيبات موسعة.",
+        "ar": "استخدم نموذج FLUX.2 كلاين 9B لتوسيع محتوى الصورة وتمديده بذكاء. أدخل صورة لتوليد توسيع الصورة بسلاسة وتركيبات موسعة.",
         "pt-BR": "Use o modelo FLUX.2 Klein 9B para estender e expandir inteligentemente o conteúdo da imagem. Insira uma imagem para gerar outpainting contínuo e composições estendidas.",
         "fa": "از مدل FLUX.2 Klein 9B برای گسترش و باز کردن هوشمندانه محتوای تصویر استفاده کنید. یک تصویر وارد کنید تا گسترش تصویر بدون درز و ترکیب‌بندی‌های گسترده تولید شود."
       }

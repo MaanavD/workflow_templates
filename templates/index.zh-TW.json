@@ -800,7 +800,7 @@
       {
         "name": "image_flux2",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "Flux.2 Dev",
+        "title": "FLUX.2 Dev",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "thumbnailVariant": "compareSlider",
@@ -836,7 +836,7 @@
       },
       {
         "name": "image_flux2_klein_image_edit_9b_base",
-        "title": "Flux.2 [Klein] 9B：圖像編輯",
+        "title": "FLUX.2 [Klein] 9B：圖像編輯",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "BFL 未蒸餾基礎模型。靈活性與可控性最高。非常適合微調。",
@@ -1382,7 +1382,7 @@
       {
         "name": "image_flux2_text_to_image",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "Flux.2 開發專用文生圖",
+        "title": "FLUX.2 開發專用文生圖",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "文生圖模型，光照、材質與細節表現更逼真。",
@@ -1409,7 +1409,7 @@
       },
       {
         "name": "image_flux2_klein_image_edit_4b_base",
-        "title": "Flux.2 [Klein] 4B：圖片編輯",
+        "title": "FLUX.2 [Klein] 4B：圖片編輯",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "較小的基礎模型，畫質與體積比例出色，適合本地部署、有限硬體微調，以及高效的產生與編輯工作流程。",
@@ -1444,7 +1444,7 @@
       {
         "name": "image_flux2_text_to_image_9b",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 9B：文生圖",
+        "title": "FLUX.2 [Klein] 9B：文生圖",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "BFL 蒸餾模型。亞秒級速度下仍具出色畫質。適合實時產生並保留品質。營銷發布將重點聚焦該模型。",
@@ -1462,7 +1462,7 @@
       {
         "name": "image_flux2_klein_image_edit_4b_distilled",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 4B 蒸餾版：圖片編輯",
+        "title": "FLUX.2 [Klein] 4B 蒸餾版：圖片編輯",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Klein 家族中速度最快的版本。專為互動式應用、實時預覽和對延遲敏感的生產場景打造。",
@@ -1576,7 +1576,7 @@
       },
       {
         "name": "image_flux2_klein_text_to_image",
-        "title": "Flux.2 [Klein] 4B: 文生圖",
+        "title": "FLUX.2 [Klein] 4B: 文生圖",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "BFL 蒸餾模型。亞秒級速度下的卓越畫質，非常適合實時產生且保證品質。市場推廣將聚焦該模型。",
@@ -2134,7 +2134,7 @@
       },
       {
         "name": "api_flux2",
-        "title": "Flux.2 Pro",
+        "title": "FLUX.2 Pro",
         "description": "產生照片級寫實圖像，支援多參考一致性與專業文字渲染。",
         "mediaType": "image",
         "mediaSubtype": "webp",
@@ -2206,7 +2206,7 @@
       {
         "name": "image_flux2_klein_image_edit_9b_distilled",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 9B 蒸餾：圖像編輯",
+        "title": "FLUX.2 [Klein] 9B 蒸餾：圖像編輯",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "thumbnailVariant": "compareSlider",
@@ -2341,7 +2341,7 @@
       {
         "name": "image_flux2_fp8",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "產品樣機（Flux.2 Dev FP8）",
+        "title": "產品樣機（FLUX.2 Dev FP8）",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "透過使用多參考一致性將設計圖案應用到包裝、馬克杯等產品上，建立產品模型圖。",
@@ -5178,7 +5178,7 @@
       },
       {
         "name": "image_flux2_klein_9b_kv_image_edit",
-        "title": "Flux.2 Klein KV：圖像編輯",
+        "title": "FLUX.2 Klein KV：圖像編輯",
         "description": "上傳參考圖像和文字提示詞。利用快取的圖像資料產生多個編輯後的圖像，以加快處理速度。",
         "mediaType": "image",
         "mediaSubtype": "webp",
@@ -6847,7 +6847,7 @@
       {
         "name": "templates_doc_workbox_klein_9b_image_extend",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "圖像擴圖: Flux.2 Klein 9B",
+        "title": "圖像擴圖: FLUX.2 Klein 9B",
         "description": "使用FLUX.2 Klein 9B模型智慧擴充和展開圖像內容。輸入圖像以產生無縫擴圖和擴充構圖。",
         "mediaType": "image",
         "mediaSubtype": "webp",

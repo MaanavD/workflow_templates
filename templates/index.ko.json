@@ -800,7 +800,7 @@
       {
         "name": "image_flux2",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "Flux.2 Dev",
+        "title": "FLUX.2 Dev",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "thumbnailVariant": "compareSlider",
@@ -836,7 +836,7 @@
       },
       {
         "name": "image_flux2_klein_image_edit_9b_base",
-        "title": "Flux.2 [Klein] 9B: 이미지 편집",
+        "title": "FLUX.2 [Klein] 9B: 이미지 편집",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "BFL 비증류 기반 모델. 최대한의 유연성과 제어. 파인튜닝에 적합.",
@@ -1409,7 +1409,7 @@
       },
       {
         "name": "image_flux2_klein_image_edit_4b_base",
-        "title": "Flux.2 [Klein] 4B：이미지 편집",
+        "title": "FLUX.2 [Klein] 4B：이미지 편집",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "뛰어난 품질 대 크기 비율을 가진 더 작은 기반 모델입니다. 로컬 배포, 제한된 하드웨어에서의 미세 조정, 효율적인 생성 및 편집 워크플로에 이상적입니다.",
@@ -1462,7 +1462,7 @@
       {
         "name": "image_flux2_klein_image_edit_4b_distilled",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 4B 증류판: 이미지 편집",
+        "title": "FLUX.2 [Klein] 4B 증류판: 이미지 편집",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Klein 패밀리에서 가장 빠른 버전입니다. 인터랙티브 애플리케이션, 실시간 미리보기, 저지연 환경에 최적화되어 있습니다.",
@@ -2134,7 +2134,7 @@
       },
       {
         "name": "api_flux2",
-        "title": "Flux.2 Pro",
+        "title": "FLUX.2 Pro",
         "description": "포토리얼리스틱 이미지를 다중 참조 일관성과 전문적인 텍스트 렌더링으로 생성합니다.",
         "mediaType": "image",
         "mediaSubtype": "webp",
@@ -2206,7 +2206,7 @@
       {
         "name": "image_flux2_klein_image_edit_9b_distilled",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 9B 증류: 이미지 편집",
+        "title": "FLUX.2 [Klein] 9B 증류: 이미지 편집",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "thumbnailVariant": "compareSlider",
@@ -2341,7 +2341,7 @@
       {
         "name": "image_flux2_fp8",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "제품 목업(Flux.2 Dev FP8)",
+        "title": "제품 목업(FLUX.2 Dev FP8)",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "다중 참조 일관성을 사용해 디자인 패턴을 포장, 머그잔 등 다양한 제품에 적용하여 제품 목업을 만듭니다.",
@@ -5178,7 +5178,7 @@
       },
       {
         "name": "image_flux2_klein_9b_kv_image_edit",
-        "title": "Flux.2 Klein KV: 이미지 편집",
+        "title": "FLUX.2 Klein KV: 이미지 편집",
         "description": "참조 이미지와 텍스트 프롬프트를 업로드하세요. 캐시된 이미지 데이터를 사용하여 여러 개의 편집된 이미지를 생성하여 더 빠르게 처리합니다.",
         "mediaType": "image",
         "mediaSubtype": "webp",
@@ -6847,7 +6847,7 @@
       {
         "name": "templates_doc_workbox_klein_9b_image_extend",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "이미지 아웃페인팅: Flux.2 Klein 9B",
+        "title": "이미지 아웃페인팅: FLUX.2 Klein 9B",
         "description": "FLUX.2 Klein 9B 모델을 사용하여 이미지 콘텐츠를 지능적으로 확장하고 펼칩니다. 이미지를 입력하여 원활한 아웃페인팅 및 확장된 구성을 생성합니다.",
         "mediaType": "image",
         "mediaSubtype": "webp",

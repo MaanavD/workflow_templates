@@ -800,7 +800,7 @@
       {
         "name": "image_flux2",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "Flux.2 Dev",
+        "title": "FLUX.2 Dev",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "thumbnailVariant": "compareSlider",
@@ -836,7 +836,7 @@
       },
       {
         "name": "image_flux2_klein_image_edit_9b_base",
-        "title": "Flux.2 [Klein] 9B: Edición de imagen",
+        "title": "FLUX.2 [Klein] 9B: Edición de imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Modelo base no destilado de BFL. Máxima flexibilidad y control. Ideal para fine-tuning.",
@@ -1382,7 +1382,7 @@
       {
         "name": "image_flux2_text_to_image",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "Flux.2 Dev texto a imagen",
+        "title": "FLUX.2 Dev texto a imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Texto a imagen con iluminación mejorada, materiales y Detalles realistas.",
@@ -1409,7 +1409,7 @@
       },
       {
         "name": "image_flux2_klein_image_edit_4b_base",
-        "title": "Flux.2 [Klein] 4B：Edición Imagen",
+        "title": "FLUX.2 [Klein] 4B：Edición Imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Un modelo base más pequeño con una excepcional Relación calidad-tamaño. Ideal para implementación local, ajuste fino en hardware limitado y flujos de trabajo eficientes de generación y edición.",
@@ -1444,7 +1444,7 @@
       {
         "name": "image_flux2_text_to_image_9b",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 9B: texto a imagen",
+        "title": "FLUX.2 [Klein] 9B: texto a imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Modelo destilado de BFL. Calidad sobresaliente a velocidad sub-segundo. Ideal para generación en tiempo real manteniendo la calidad. El lanzamiento de marketing se centrará en este modelo.",
@@ -1462,7 +1462,7 @@
       {
         "name": "image_flux2_klein_image_edit_4b_distilled",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 4B Destilado: Edición de Imagen",
+        "title": "FLUX.2 [Klein] 4B Destilado: Edición de Imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "La variante más rápida de la familia Klein. Creada para aplicaciones interactivas, previsualizaciones en tiempo real y casos de uso críticos en latencia.",
@@ -1576,7 +1576,7 @@
       },
       {
         "name": "image_flux2_klein_text_to_image",
-        "title": "Flux.2 [Klein] 4B: texto a imagen",
+        "title": "FLUX.2 [Klein] 4B: texto a imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Modelo destilado BFL. Calidad sobresaliente y velocidad inferior a un segundo. Ideal para generación en tiempo real sin sacrificar calidad. El lanzamiento de marketing se centrará en este modelo.",
@@ -2134,7 +2134,7 @@
       },
       {
         "name": "api_flux2",
-        "title": "Flux.2 Pro",
+        "title": "FLUX.2 Pro",
         "description": "Genera imágenes fotorrealistas con coherencia multirreferencia y renderizado profesional de texto.",
         "mediaType": "image",
         "mediaSubtype": "webp",
@@ -2206,7 +2206,7 @@
       {
         "name": "image_flux2_klein_image_edit_9b_distilled",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Flux.2 [Klein] 9B destilado: Edición de imagen",
+        "title": "FLUX.2 [Klein] 9B destilado: Edición de imagen",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "thumbnailVariant": "compareSlider",
@@ -2341,7 +2341,7 @@
       {
         "name": "image_flux2_fp8",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-dev",
-        "title": "Maqueta de producto (Flux.2 Dev FP8)",
+        "title": "Maqueta de producto (FLUX.2 Dev FP8)",
         "mediaType": "image",
         "mediaSubtype": "webp",
         "description": "Crea maquetas de productos aplicando patrones de diseño a envases, tazas y otros productos usando consistencia multi-referencia.",
@@ -5178,7 +5178,7 @@
       },
       {
         "name": "image_flux2_klein_9b_kv_image_edit",
-        "title": "Flux.2 Klein KV: Edición de imagen",
+        "title": "FLUX.2 Klein KV: Edición de imagen",
         "description": "Sube imágenes de referencia y un prompt de texto. Genera múltiples imágenes editadas usando datos de imagen en caché para un procesamiento más rápido.",
         "mediaType": "image",
         "mediaSubtype": "webp",
@@ -6847,7 +6847,7 @@
       {
         "name": "templates_doc_workbox_klein_9b_image_extend",
         "tutorialUrl": "https://docs.comfy.org/tutorials/flux/flux-2-klein",
-        "title": "Outpainting de imagen: Flux.2 Klein 9B",
+        "title": "Outpainting de imagen: FLUX.2 Klein 9B",
         "description": "Utilice el modelo FLUX.2 Klein 9B para extender y expandir inteligentemente el contenido de la imagen. Ingrese una imagen para generar outpainting sin costuras y composiciones extendidas.",
         "mediaType": "image",
         "mediaSubtype": "webp",
